@@ -9,8 +9,8 @@
 
 	<Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 		<local:MyCanvas Width="300"
-						Height="300"
-						Background="LightSeaGreen" />
+				Height="300"
+				Background="LightSeaGreen" />
 
 		<!-- #1: UNCOMMENT THIS TO MESS UP WASM #1 -->
 

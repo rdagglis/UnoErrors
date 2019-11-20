@@ -6,11 +6,11 @@ This project is to simply show two errors I've come across using the Uno Platfor
 
 By simply running the solution on iOS, you'll get the following crash:
 
-![iOS Error](img/ios-error.png)
+![iOS Error](ios-error.png)
 
 Debugging with Uno gives shows the error at the following location:
 
-![iOS Error](img/ios-error-02.jpg)
+![iOS Error](ios-error-02.jpg)
 
 # 2. Wasm hangs on splash screen when using Activation OR RoutedViewHost of ReactiveUI
 
